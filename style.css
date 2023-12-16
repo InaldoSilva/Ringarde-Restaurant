@@ -569,7 +569,7 @@ header .text .arrow .left:after, header .text .arrow .right:after, header .text 
 header {
     height: calc(100vh - 22px);
     background-size: cover;
-    background: url("https://res.cloudinary.com/abdel-rahman-ali/image/upload/v1535988534/header.jpg") fixed bottom;
+    background: url("./img/beef.jpg") fixed bottom;
     padding: 20px 70px;
 }
 header nav {
@@ -710,7 +710,7 @@ header .arrow-down {
     left: 50%;
     transform: translate(-50%, 0);
     z-index: 10;
-    background: url("https://res.cloudinary.com/abdel-rahman-ali/image/upload/v1535988515/arrow-down.png") no-repeat center;
+    background: url("./img/ringarde\ R-40px.png") no-repeat center; 
 }
 /*End Header*/
 
@@ -739,7 +739,7 @@ header .arrow-down {
 /*Start Recipes*/
 .recipes .image {
     height: 350px;
-    background: url("https://res.cloudinary.com/abdel-rahman-ali/image/upload/v1535988529/three-col-1.jpg") fixed center;
+    background: url("./img/pexels-pixabay-326281.jpg") fixed center;
     background-size: cover;
 }
 /*End Recipes*/
@@ -814,7 +814,7 @@ header .arrow-down {
 
 /*Start fixed-image*/
 .fixed-image {
-    background: url("https://res.cloudinary.com/abdel-rahman-ali/image/upload/v1535988533/frontpage-menu.jpg") fixed center;
+    background: url("./img/garçon.jpg") fixed center;
     background-size: cover;
     height: 400px;
 }
